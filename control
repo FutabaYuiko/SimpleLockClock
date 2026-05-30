@@ -1,0 +1,9 @@
+Package: com.yuiko.simplelockclock
+Name: SimpleLockClock
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Description: Minimal lock screen clock/date tweak for iOS 16.1.1
+Maintainer: Yuiko
+Author: Yuiko
+Section: Tweaks
+Depends: mobilesubstrate
